@@ -3,4 +3,9 @@
 <title> first page</title>
 </head>
 <body>
-<img src="
+<img src="https://s-media-cache-ak0.pinimg.com/originals/8e/3d/d1/8e3dd1129375146b394fc7c54121ae62.jpg" height= "150px" width= "150px" alt="" />
+<!-- or-->
+<img src="https://s-media-cache-ak0.pinimg.com/originals/8e/3d/d1/8e3dd1129375146b394fc7c54121ae62.jpg" height="50%" width="50%" alt="" />
+</body>
+</html>
+<!--br--> <!-- break-->
