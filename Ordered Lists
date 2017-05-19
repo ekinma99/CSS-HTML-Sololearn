@@ -1,0 +1,19 @@
+<!-- list are automatically numbered and start wit <ol> and defined by <li> -->
+<html>
+<head>
+<title> first page </title>
+</head>
+<body>
+<ol>
+<li>Red</li>
+<li>Blue</li>
+<li>Green</li>
+</ol>
+</body>
+</html>
+<!--to create bulleted list-->
+<ul>
+<li>Red</li>
+<li>Blue</li>
+<li>Green</li>
+</ul>
