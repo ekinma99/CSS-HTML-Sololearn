@@ -1,0 +1,4 @@
+<hr width= "500px";/> <!-- or--> <hr width= 50%/>
+<br/>
+ <p> A line </br> break </p>
+ <!-- break will go to next line -->
