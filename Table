@@ -1,0 +1,20 @@
+
+<table border="3">
+    <tr>
+        <td>Red</td>
+        <td>Blue</td>
+        <td>Green</td> <!-- Anything before </tr> adds 2 1st column -->
+    </tr>
+    <tr>
+        <td> 1 </td>
+        <td> <br /></td>
+        <td colspan="2"><br /></td>
+        <!-- Before the </tr> adds to the 2nd column --> 
+    </tr>
+   <tr>
+   <td> <br /></td> <!-- rows--> 
+   <td> <br /></td>
+   <td colspan="2"><br /></td> <!-- size of col --> 
+   </tr>
+    
+</table>
