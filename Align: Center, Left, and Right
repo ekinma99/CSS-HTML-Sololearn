@@ -3,7 +3,7 @@
 <title> Attributes </title>
 </head>
 <body>
-<p align= "center> Welcome </p> <p align="left" /> About Me </p>
+<p align= "center"> Welcome </p> <p align="left" /> About Me </p>
 <p align= "right"> Something</p>
 </body>
 </html>
