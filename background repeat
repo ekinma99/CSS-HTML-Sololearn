@@ -1,0 +1,19 @@
+/* CSS only */
+body{
+background-image: url("    ");
+background-repeat:no-repeat;
+}
+body{
+background-image: url("   ");
+background-repeat: repeat-x;
+}
+body{
+background-image: url("   ");
+background-repeat:repeat-y;
+}
+p{
+background-image:url("  ");
+background-repeat:inherit;
+margin-top:   px;
+padding:    px;
+}
