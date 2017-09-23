@@ -1,0 +1,29 @@
+<html>
+<title> </title>
+<head> </head>
+<body>
+<ol class="lower-alpha">
+<li> Red </li>
+<li> Blue </li>
+<li> Green </li>
+</ol>
+<ul class="circles">
+<li> Red </li>
+<li> Blue </li>
+<li> Green </li>
+</ul>
+<ul class="square">
+<li> Red </li>
+<li> Blue </li>
+<li> Green </li>
+</ul>
+?*CSS */
+ol.lower-alpha{
+list-style-type: lower-alpha;
+}
+ul.circles{
+list-style-type: circle;
+}
+ul.square{
+list-style-type: square;
+}
